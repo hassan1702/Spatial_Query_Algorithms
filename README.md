@@ -15,8 +15,6 @@
   - Standard: `math`, `os`, `time`
   - Custom: `Create_Rtree`
 
-> 💡 Place input datasets in the same directory as program files.
-
 ---
 
 ## 📂 Directory & File Structure
