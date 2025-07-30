@@ -1,11 +1,5 @@
 
----
-
-```markdown
-# 📌 COMP6210 Assignment 2 – Spatial Search Algorithms
-
-> **Team Coordinator**: [Hassan Mohammad](mailto:hassan_md@live.com)  
-> Macquarie University | Semester 2, 2025
+## Efficient Spatial Queries with R-Trees: Nearest Neighbor & Skyline Search
 
 ---
 
