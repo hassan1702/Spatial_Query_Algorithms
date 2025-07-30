@@ -145,5 +145,3 @@ Ensure all scripts and dataset files are in the same directory.
 MIT License (Add your preferred license here)
 
 ---
-
-```
